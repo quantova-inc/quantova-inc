@@ -4,7 +4,7 @@
 
 <br/>
 
-# Hi there, we're Quantova 👋
+# Quantova Inc. is a U.S based cryptographic engineering organization and owner of the intellectual property behind the Quantova Organization (https://github.com/Quantova), focused on NIST-approved post-quantum cryptography, quantum-resilient blockchain infrastructure, and secure digital trust systems.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&width=720&lines=Building+the+blockchain+for+a+post-quantum+world;Post-quantum+cryptography;Lattice-based+signatures;Quantum-safe+by+design)](https://github.com/quantova-inc)
 
@@ -16,23 +16,23 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-![Layer-1](https://img.shields.io/badge/⚡_LAYER--1-22c55e?style=for-the-badge&labelColor=000000)
+![Layer-1](https://img.shields.io/badge/_LAYER--1-22c55e?style=for-the-badge&labelColor=000000)
 ![Rust](https://img.shields.io/badge/RUST-orange?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
-![ML-DSA](https://img.shields.io/badge/🔐_ML--DSA-A855F7?style=for-the-badge&labelColor=000000)
+![ML-DSA](https://img.shields.io/badge/_ML--DSA-A855F7?style=for-the-badge&labelColor=000000)
 ![Post-Quantum](https://img.shields.io/badge/POST--QUANTUM-06b6d4?style=for-the-badge&labelColor=000000)
 ![WASM](https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&labelColor=000000)
 
-_Secure against classical **and** quantum adversaries — built in Rust 🦀✨_
+_Secure against classical **and** quantum adversaries — built in Rust _
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -42,7 +42,7 @@ _Secure against classical **and** quantum adversaries — built in Rust 🦀✨_
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -65,7 +65,7 @@ _Secure against classical **and** quantum adversaries — built in Rust 🦀✨_
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
 🔭 Building       Post-quantum Layer-1 blockchain (QVM)
@@ -101,10 +101,10 @@ _Secure against classical **and** quantum adversaries — built in Rust 🦀✨_
 
 <div align="center">
 
-_One must imagine a quantum-safe system happy._
 
-**🪨 The boulder never stops.**
 
-<sub>© Quantova · Built with Rust 🦀 · Secured by post-quantum cryptography</sub>
+** The boulder never stops.**
+
+<sub>© Quantova · Built with Rust · Secured by post-quantum cryptography</sub>
 
 </div>
