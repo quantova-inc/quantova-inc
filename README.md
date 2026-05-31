@@ -26,7 +26,7 @@
 ![Post-Quantum](https://img.shields.io/badge/POST--QUANTUM-06b6d4?style=for-the-badge&labelColor=000000)
 ![WASM](https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&labelColor=000000)
 
-_Secure against classical **and** quantum adversaries — built in Rust _
+Secure against classical **and** quantum adversaries built in Rust 
 
 </div>
 
@@ -93,7 +93,6 @@ _Secure against classical **and** quantum adversaries — built in Rust _
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random dev quote"/>
 
 </div>
 
