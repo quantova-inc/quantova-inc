@@ -112,8 +112,6 @@ _Secure against classical **and** quantum adversaries — built in Rust 🦀✨_
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=footer&reversal=false" alt="footer"/>
-
 _One must imagine a quantum-safe system happy._
 
 **🪨 The boulder never stops.**
