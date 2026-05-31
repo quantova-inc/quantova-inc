@@ -32,17 +32,6 @@ _Secure against classical **and** quantum adversaries — built in Rust 🦀✨_
 
 ---
 
-## 📊 Org Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=quantova-inc&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=06b6d4&text_color=ffffff&include_all_commits=true" alt="Quantova stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantova-inc&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=A855F7&text_color=ffffff" alt="Top languages"/>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
