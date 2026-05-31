@@ -4,7 +4,9 @@
 
 <br/>
 
-# Quantova Inc. is a U.S based cryptographic engineering organization and owner of the intellectual property behind the Quantova Organization (https://github.com/Quantova), focused on NIST-approved post-quantum cryptography, quantum-resilient blockchain infrastructure, and secure digital trust systems.
+# Quantova Inc.
+
+Quantova Inc. is a U.S.-based cryptographic engineering organization and owner of the intellectual property behind the Quantova Organization (https://github.com/Quantova), focused on NIST-approved post-quantum cryptography, quantum-resilient blockchain infrastructure, and secure digital trust systems.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&width=720&lines=Building+the+blockchain+for+a+post-quantum+world;Post-quantum+cryptography;Lattice-based+signatures;Quantum-safe+by+design)](https://github.com/quantova-inc)
 
