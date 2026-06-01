@@ -46,13 +46,7 @@ Secure against classical **and** quantum adversaries built in Rust
 
 ---
 
-## Activity Graph
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=quantova-inc&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=Quantova%20Contribution%20Graph" alt="Activity graph"/>
-
-</div>
 
 ---
 
