@@ -46,49 +46,16 @@ Secure against classical **and** quantum adversaries built in Rust
 
 ---
 
-
-
----
-
-## 📡 Connect With Us
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](https://quantova.org)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://twitter.com/quantovafnd)
-[![Discussions](https://img.shields.io/badge/DISCUSSIONS-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/orgs/Quantova/discussions)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:hello@quantova.org)
-
-</div>
-
----
-
 ## Current Focus
 
 ```text
 🔭 Building       Post-quantum Layer-1 blockchain (QVM)
-🔐 Cryptography   ML-DSA / Dilithium-family signatures (NIST-standardized)
+🔐 Cryptography   Dilithium-family signatures (NIST-standardized)
 🦀 Written in     Rust, end-to-end — memory-safe by design
 💬 Ask us about   Quantova SDK, Q-Mask wallet, running a node
 🌐 Learn more     quantova.org
 ```
 
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-
-</div>
-
----
-
-<div align="center">
-
-
-
-** The boulder never stops.**
 
 <sub>© Quantova · Built with Rust · Secured by post-quantum cryptography</sub>
 
