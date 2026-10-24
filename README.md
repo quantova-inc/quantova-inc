@@ -1,24 +1,43 @@
 <div align="center">
 
-<img src="https://quantova.org/static/images/home/hom2.a04af8931878.webp" width="100%" alt="Quantova — the blockchain for a post-quantum world"/>
+<img src="https://quantova.org/static/images/home/hom2.a04af8931878.webp" width="100%" alt="Quantova post quantum blockchain"/>
 
 <br/>
 
 # Quantova Inc.
 
-Quantova Inc. is a U.S.-based cryptographic engineering organization and owner of the intellectual property behind the Quantova Organization (https://github.com/Quantova), focused on NIST-approved post-quantum cryptography, quantum-resilient blockchain infrastructure, and secure digital trust systems.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=720&lines=Building+the+blockchain+for+a+post-quantum+world;Post-quantum+cryptography;Lattice-based+signatures;Quantum-safe+by+design)](https://github.com/quantova-inc)
+Quantova Inc. is a United States based cryptographic engineering organization and the owner of the intellectual property behind the Quantova Organization at https://github.com/Quantova. Its work is post quantum cryptography standardized by NIST, quantum resistant blockchain infrastructure, and verifiable records and settlement that depend on no trusted operator.
 
 ![Followers](https://img.shields.io/github/followers/quantova-inc?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=000000&color=000000)
 ![Stars](https://img.shields.io/github/stars/quantova-inc?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=000000&color=000000)
-![Profile Views](https://komarev.com/ghpvc/?username=quantova-inc&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## Tech Stack
+## Ownership and Attribution
+
+Quantova Inc. and this account are owned and operated solely by LLA.
+
+LLA is the author and engineer behind every Quantova contribution, every fix, and the design and build of the entire Quantova stack. LLA stands for the owner's initials and refers to one person. Quantova Inc. is not a team. No other individual or party manages, operates, signs for, or contributes under this account. All code published here, all contributions submitted to external projects, and all statements made under this name originate from LLA alone.
+
+---
+
+## Scope of Work
+
+```text
+Network         Quantova, a post quantum Layer 1 blockchain with the register based QVM
+Contracts       Quanta, a post quantum smart contract language and compiler
+Cryptography    ML DSA, ML KEM, and SLH DSA under NIST FIPS 204, 203, and 205
+Tooling         The Quantova post quantum tooling suite, client core, attestation, and wallet
+Contributions   Post quantum fixes and standards upstreamed to major networks and standards bodies
+Language        Rust across the stack, memory safe throughout
+Reference       quantova.org
+```
+
+---
+
+## Technology
 
 <div align="center">
 
@@ -40,23 +59,10 @@ Quantova Inc. is a U.S.-based cryptographic engineering organization and owner o
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=000000)
 
-Secure against classical **and** quantum adversaries built in Rust 
+Written in Rust. The cryptography resists both classical and quantum adversaries.
 
 </div>
 
 ---
 
-## Current Focus
-
-```text
-🔭 Building       Post-quantum Layer-1 blockchain (QVM)
-🔐 Cryptography   Dilithium-family signatures (NIST-standardized)
-🦀 Written in     Rust, end-to-end — memory-safe by design
-💬 Ask us about   Quantova SDK, Q-Mask wallet, running a node
-🌐 Learn more     quantova.org
-```
-
-
-<sub>© Quantova · Built with Rust · Secured by post-quantum cryptography</sub>
-
-</div>
+<sub>Quantova Inc. Owned and operated by LLA. Secured by post quantum cryptography.</sub>
