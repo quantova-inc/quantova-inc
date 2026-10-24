@@ -6,7 +6,7 @@
 
 # Quantova Inc.
 
-Quantova Inc. is a United States based cryptographic engineering organization and the owner of the intellectual property behind the Quantova Organization at https://github.com/Quantova. Its work is post quantum cryptography standardized by NIST, quantum resistant blockchain infrastructure, and verifiable records and settlement that depend on no trusted operator.
+Quantova Inc. is a United States based cryptographic engineering organization and the owner of the intellectual property behind the Quantova Organization at https://github.com/Quantova. Its subject is the security of cryptography against the quantum computer, the threat a quantum adversary poses to the digital signatures and key exchange the world relies on today, and the replacement of those primitives with schemes that hold against it. The work reaches from the post quantum standards published by NIST to the blockchain infrastructure built upon them and the records and settlement that infrastructure secures without a trusted operator.
 
 ![Followers](https://img.shields.io/github/followers/quantova-inc?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=000000&color=000000)
 ![Stars](https://img.shields.io/github/stars/quantova-inc?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=000000&color=000000)
@@ -19,7 +19,7 @@ Quantova Inc. is a United States based cryptographic engineering organization an
 
 Quantova Inc. and this account are owned and operated solely by LLA.
 
-LLA is the author and engineer behind every Quantova contribution, every fix, and the design and build of the entire Quantova stack. LLA stands for the owner's initials and refers to one person. Quantova Inc. is not a team. No other individual or party manages, operates, signs for, or contributes under this account. All code published here, all contributions submitted to external projects, and all statements made under this name originate from LLA alone.
+LLA is the author and engineer behind every Quantova contribution, every fix, and the design and build of the entire Quantova stack. LLA stands for the owner's initials and refers to one person. Quantova Inc. is not a team. No other individual or party manages, operates, signs for, or contributes under this account. All code published here, all contributions submitted to external projects, and all statements made under this name originate from LLA alone. LLA specialises in quantum resistance, the analysis of the quantum threat to classical cryptography, post quantum algorithms, and the building of quantum safe tools for the wider cryptography industry.
 
 ---
 
@@ -59,9 +59,17 @@ Reference       quantova.org
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=000000)
 
-Written in Rust. The cryptography resists both classical and quantum adversaries.
+Written in Rust. Secure against classical and quantum adversaries, and built to give the cryptography industry the tooling it needs for the quantum transition.
 
 </div>
+
+---
+
+## Contact and Conduct
+
+Questions and concerns are handled on the community page of the Quantova website and in the Discord linked there. For a matter that belongs in writing, the address is Support@quantova.org.
+
+Do not send links or attachments to that address. Any message that carries a link or a file will be ignored and removed unread, which is a standing safeguard against phishing and malware. Quantova will never ask for a seed phrase, a private key, or a password through any channel.
 
 ---
 
