@@ -17,9 +17,9 @@ Quantova Inc. is a United States based cryptographic engineering organization an
 
 ## Ownership and Attribution
 
-Quantova Inc. and this account are owned and operated solely by LLA.
+Quantova Inc. and this account are owned and operated solely by LAA.
 
-LLA is the author and engineer behind every Quantova contribution, every fix, and the design and build of the entire Quantova stack. LLA stands for the owner's initials and refers to one person. Quantova Inc. is not a team. No other individual or party manages, operates, signs for, or contributes under this account. All code published here, all contributions submitted to external projects, and all statements made under this name originate from LLA alone. LLA specialises in quantum resistance, the analysis of the quantum threat to classical cryptography, post quantum algorithms, and the building of quantum safe tools for the wider cryptography industry.
+LAA is the author and engineer behind every Quantova contribution, every fix, and the design and build of the entire Quantova stack. LAA stands for the owner's initials and refers to one person. Quantova Inc. is not a team. No other individual or party manages, operates, signs for, or contributes under this account. All code published here, all contributions submitted to external projects, and all statements made under this name originate from LAA alone. LAA specialises in quantum resistance, the analysis of the quantum threat to classical cryptography, post quantum algorithms, and the building of quantum safe tools for the wider cryptography industry.
 
 ---
 
@@ -71,4 +71,4 @@ Do not send links or attachments to that address. Any message that carries a lin
 
 ---
 
-<sub>Quantova Inc. Owned and operated by LLA. Secured by post quantum cryptography.</sub>
+<sub>Quantova Inc. Owned and operated by LAA. Secured by post quantum cryptography.</sub>
